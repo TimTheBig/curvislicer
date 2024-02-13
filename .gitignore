@@ -10,3 +10,4 @@ models/
 !models/**.stl
 
 settings.lua
+.DS_Store
