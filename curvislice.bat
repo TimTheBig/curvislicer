@@ -4,7 +4,7 @@ set gurobi=0
 
 set volumic=0
 set nozzle=0.4
-set layer=0.3
+set layer=0.2
 set filament=1.75
 set ironing=0
 set model=

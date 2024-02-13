@@ -3,7 +3,7 @@ gurobi=0
 
 volumic=0
 nozzle=0.4
-layer=0.3
+layer=0.2
 filament=1.75
 ironing=0
 model=
